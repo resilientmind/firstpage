@@ -1,0 +1,43 @@
+body {
+background-color: pink;
+text-align: center;
+margin-left: 20px; 
+padding: 90px;
+}
+
+p {
+color: blue;
+float: left; clear-left;
+font-style: oblique;
+font-size: 20px;
+}
+
+
+table {
+border-style: groove;
+border-radius: 12px;
+padding: 20px;
+border-color: blue;
+column-align:center;
+}
+
+
+img {width: 30%;
+height: 15%;
+length: 15%;
+}
+
+.myDiv {
+  border: 5px outset red;
+  border-radius: 40px;
+  border-style: groove;
+  background-color: lightblue;    
+  text-align: center;
+}
+
+.extraDiv {
+	
+	font-style: oblique;
+	font-size: 40px;
+	text-align: center;
+}
